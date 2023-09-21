@@ -8,6 +8,8 @@ const time = document.querySelector('.time');
 
 const icon = document.querySelector('.icon img');
 
+
+
  const updateUI = (data) =>
 {
     const cityDets = data.cityDets;
